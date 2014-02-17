@@ -1,0 +1,1 @@
+class BookingConflictError < StandardError; end

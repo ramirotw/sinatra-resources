@@ -1,0 +1,6 @@
+development:
+  adapter: 'sqlite3'
+  db: 'resources.db'
+test:
+  adapter: 'sqlite3'
+  db: 'resources-test.db'
